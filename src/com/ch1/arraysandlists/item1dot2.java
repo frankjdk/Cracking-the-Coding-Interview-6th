@@ -2,7 +2,8 @@ package com.ch1.arraysandlists;
 
 public class item1dot2 {
 
-	//Write a method to decide if two strings are anagrams/permutation or not.
+	// Check Permutation
+	// Write a method to decide if two strings are anagrams/permutation or not.
 	public static void main (String[] args) {
 		
 		String string1 = "testmessage";

@@ -5,6 +5,7 @@ import java.util.Set;
 
 public class item1dot1 {
 
+	// Is Unique
 	// Implement an algorithm to determine if a string has all unique characters. 
 	public static void main (String[] args) {
 		
